@@ -1,0 +1,1 @@
+SELECT felhasznalok.felhasznalonev from felhasznalok,kepek WHERE felhasznalok.ID = kepek.felhID

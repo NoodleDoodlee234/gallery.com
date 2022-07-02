@@ -1,0 +1,3 @@
+ID AI Primary
+felhasznalo_nev varchar
+jelszo varchar
